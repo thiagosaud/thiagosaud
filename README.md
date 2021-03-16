@@ -1,27 +1,11 @@
-### Hi there, my name is 👋
+### Hello World, nice to meet you! <img src="https://raw.githubusercontent.com/thiagosaud/thiagosaud/main/wave.gif" width="30px"> 👨‍🚀
 
-<!--
-**thiagobonisoficial/thiagobonisoficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Saud-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosaud)](https://www.linkedin.com/in/thiagosaud/)
 
-Here are some ideas to get you started:
+I am a minimalist and curious person, passionate about technology, investments and financial education. :cupid:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-# Thiago De Bonis
-
-- 🎓 Computer Scientist
-- 💼 Frontend Engineer.
-
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagobonisoficial/)](https://www.linkedin.com/in/thiagobonisoficial/) 
-
-"Nothing in this world beats good old persistence. Talent does not surpass. Nothing more common than talented failures. Genius does not overcome. Unrecognized geniuses is practically a cliche. Education does not exceed. The world is full of educated fools. Persistence and determination alone are powerful."
-
+- 🎓 I have a Bachelor's Degree in Computer Science from UVA (University Veiga de Almeida)
+- 📜 Monograph writer with maximum score: ["Facial Recognition in Public Security"](https://github.com/thiagobonisoficial/facerecognition-prototype)
+- 💼 I work as a Frontend Engineer
+- ✊🏽 I try to collaborate on social impact projects
+- 💡 I try to help people who are starting in programming

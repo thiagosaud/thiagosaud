@@ -1,4 +1,4 @@
-### Hello World, nice to meet you! <img src="https://raw.githubusercontent.com/thiagobonisoficial/thiagobonisoficial/main/wave.gif" width="30px"> 👨‍🚀
+### Hello World, nice to meet you! <img src="https://raw.githubusercontent.com/thiagobonisoficial/thiagobonisoficial/master/wave.gif" width="30px"> 👨‍🚀
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Saud-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosaud)](https://www.linkedin.com/in/thiagosaud/)
 

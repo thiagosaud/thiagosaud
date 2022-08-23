@@ -12,5 +12,5 @@ I am a minimalist and curious person, passionate about technology, investments a
 
 ## &#x1f4c8; GitHub Stats
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagobonisoficial&layout=compact&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagosaud&layout=compact&theme=vue-dark" />
 </p>

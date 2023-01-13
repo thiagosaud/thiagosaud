@@ -9,8 +9,3 @@ I am a minimalist and curious person, passionate about technology, investments a
 - 💼 I work as a Frontend Engineer
 - ✊🏽 I try to collaborate on social impact projects
 - 💡 I try to help people who are starting in programming
-
-## &#x1f4c8; GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thiagosaud&layout=compact&theme=vue-dark" />
-</p>

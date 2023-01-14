@@ -2,10 +2,12 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Thiago%20Saud-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosaud)](https://www.linkedin.com/in/thiagosaud/)
 
-I am a minimalist and curious person, passionate about technology, investments and financial education. :cupid:
+Every great developer begin with an even better story
 
-- 🎓 I have a Bachelor's Degree in Computer Science from UVA (University Veiga de Almeida)
-- 📜 Monograph writer with maximum score: ["Facial Recognition in Public Security"](https://github.com/thiagosaud/facerecognition-prototype)
-- 💼 I work as a Frontend Engineer
-- ✊🏽 I try to collaborate on social impact projects
-- 💡 I try to help people who are starting in programming
+My journey in the technology sector started when I was 13 years old, I provided hardware and software maintenance services and customer service for a computer company.
+
+Between 13 and 18 years old, I have always focused my studies on software, specifically in Front-End, providing development services until I was 18, when I entered the faculty of University Veiga De Almeida, which I graduated in BSc. Computer science.
+
+Since I started my Frontend journey almost 16 years ago. I've provided in-person, remote, and hybrid services for startups and large enterprises, where I've collaborated with talented people to create digital products for commercial and consumer use. I'm quietly confident, naturally curious and perpetually working to always deliver the best service!
+
+🔗 [My Website!](https://thiagosaud.dev)

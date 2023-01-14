@@ -1,8 +1,8 @@
 ### Hello World, nice to meet you! <img src="https://raw.githubusercontent.com/thiagobonisoficial/thiagobonisoficial/master/wave.gif" width="30px"> 👨‍🚀
 
+ [![Website Badge](https://img.shields.io/badge/-My%20Website-6633cc?style=flat-square&logo=appveyor&logoColor=white&link=https://thiagosaud.dev)](https://thiagosaud.dev)
+ 
  [![Linkedin Badge](https://img.shields.io/badge/-My%20Linkedin-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagosaud)](https://www.linkedin.com/in/thiagosaud/)
-
- [![Website Badge](https://img.shields.io/badge/-My%20Website-6633cc?style=flat-square&logo=appveyor&logoColor=white&link=https://www.linkedin.com/in/thiagosaud)](https://www.linkedin.com/in/thiagosaud/)
 
 Every great developer begin with an even better story
 

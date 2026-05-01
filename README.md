@@ -1,4 +1,4 @@
-<img src="images/banner.png" title="SAUD TECHNOLOGY - TURNING IDEAS INTO REALITY" />
+<img src="banner.png" title="SAUD TECHNOLOGY - TURNING IDEAS INTO REALITY" />
 
 <p>
 SAUD Technology, a Strategic Consulting in Technology firm, specializes in building frontend platforms, prioritize trust, security, high performance, and resilience at scale.

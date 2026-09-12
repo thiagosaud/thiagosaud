@@ -1,7 +1,10 @@
 <img src="banner.png" title="SAUD TECHNOLOGY - TAKE YOUR BUSINESS TO THE NEXT LEVEL WITH PROFESSIONAL QUALITY SOFTWARE" />
 
 <p>
-<strong>Embrace a Vision of Innovation and Excellence.</strong>
+<strong>
+ Embrace a Vision of Innovation and Excellence.
+ Think Big. Build Smart.
+</strong>
  
 <strong>SAUD TECHNOLOGY</strong> stands as the professional identity under which <strong>THIAGO SAUD</strong> operates on mission-critical platforms—the user interface and the underlying system.
  
